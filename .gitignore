@@ -1,0 +1,26 @@
+# MATLAB auto-saved backup files
+*.asv
+*.m~
+
+# MATLAB compiled files
+*.mex*
+*.mexw64
+*.mexw32
+*.mexa64
+
+# MATLAB Simulink
+*.slxc
+*.slx.autosave
+
+# Large test images (optional - comment out if you want images tracked)
+# *.jpg
+# *.png
+
+# OS generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+desktop.ini
+
+# MATLAB preference files
+matlab.prf
